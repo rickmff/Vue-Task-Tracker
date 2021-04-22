@@ -75,20 +75,24 @@ export default {
 .form-control input {
   width: 100%;
   height: 40px;
-  margin: 5px;
+  border-radius: 5px;
   padding: 3px 7px;
   font-size: 17px;
 }
 .form-control-check {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  float: left;
 }
 .form-control-check label {
-  flex: 1;
+  display: inline-block !important;
+  width: 200px;
+  margin-left: 5px;
+  margin-bottom: 35px;
 }
 .form-control-check input {
-  flex: 2;
+  display: inline-block !important;
   height: 20px;
+  width: 50%;
+  margin: 2px;
 }
 </style>
