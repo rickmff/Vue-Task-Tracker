@@ -18,10 +18,22 @@
   },
   "tasks": [
     {
-      "text": "Go to suicide",
+      "text": "Task 1",
       "day": "April 24th at 5:30pm",
       "reminder": false,
-      "id": "lFz41XK"
+      "id": 1
+    },
+    {
+      "text": "Task 2",
+      "day": "May 05th at 8:45pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Levar vó no Judo",
+      "day": "May 4th at 10:00am",
+      "reminder": true,
+      "id": 3
     }
   ]
 }

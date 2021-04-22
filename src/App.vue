@@ -42,18 +42,33 @@ export default {
   margin: 0;
   padding: 0;
 }
-body {
+html, body {
   font-family: Poppins, sans-serif;
+  background: #0C0A13;
+  color: white;
+  letter-spacing: 1.3px;
 }
 .container {
+  background: #221D34;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid black;
   padding: 30px;
   border-radius: 5px;
+  box-shadow: 9px 12px 5px 5px #0000003d;
 }
+
+a {
+  color: #c2c2c2 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white !important;
+}
+
 .btn {
   display: inline-block;
   background: #000;
