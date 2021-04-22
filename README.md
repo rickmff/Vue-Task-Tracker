@@ -1,8 +1,7 @@
 # vue-crash-2021
-![image](https://user-images.githubusercontent.com/46444941/115672580-1450fe80-a322-11eb-8c41-21614d4eef85.png)
-![image](https://user-images.githubusercontent.com/46444941/115672620-1e72fd00-a322-11eb-8a1a-e3a076156253.png)
-![image](https://user-images.githubusercontent.com/46444941/115674105-b32a2a80-a323-11eb-8661-41a035b99b90.png)
-
+![image](https://user-images.githubusercontent.com/46444941/115674302-e2d93280-a323-11eb-9664-db53b73c23f1.png)
+![image](https://user-images.githubusercontent.com/46444941/115674430-043a1e80-a324-11eb-92b7-9f1168662aba.png)
+![image](https://user-images.githubusercontent.com/46444941/115674370-f5536c00-a323-11eb-9f82-dc2e8b0ebe8d.png)
 
 
 
